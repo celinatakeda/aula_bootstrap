@@ -1,10 +1,15 @@
 
 body {
     font: 20px Arial, sans-serif;
+
 }
 
 .navbar {
-    background-color:#45c8e9;
+    background-color:#45c8e9;   
+}
+
+.navbar-brand {
+    margin-left: 15px;
 }
 
 .quem-somos {
