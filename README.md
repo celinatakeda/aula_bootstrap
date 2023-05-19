@@ -4,3 +4,7 @@ Bootstrap é um framework CSS utilizado em aplicações front-end, na camada de 
 de qualquer dispositivo.
 
 São componentes prontos para ser usado no seu site.
+
+<p>
+    <img src=".github/site.png">
+</p>
