@@ -5,6 +5,6 @@ de qualquer dispositivo.
 
 São componentes prontos para ser usado no seu site.
 
-<p>
+<p align=center>
     <img src=".github/site.png">
 </p>
